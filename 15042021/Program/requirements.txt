@@ -1,0 +1,7 @@
+click
+flask
+itsdangerous
+jinja2
+markupsafe
+serial
+werkzeug

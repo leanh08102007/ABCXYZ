@@ -1,0 +1,9 @@
+Serialconnection=False
+ser=None
+VAC=[None,None,None,None,None,None]
+IAC=[None,None,None]
+FAC=[None,None,None,None,None,None]
+VAccuMayPhat=None
+Temp=[None,None,None]
+IDevice=[None,None,None]
+VDC=None
